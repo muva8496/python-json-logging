@@ -1,0 +1,5 @@
+logs/
+scratch/
+__pycache__/
+*.pyc
+.vscode/
